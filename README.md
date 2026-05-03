@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagem estilizada de menina geek/programadora -->
-  <img height="200" src="https://i.pinimg.com/1200x/e6/16/dc/e616dc1fb1b923fa0839173e2e7be049.jpg" />
+  <img height="200" src="https://i.pinimg.com/1200x/1a/27/f3/1a27f34e539361ecdd9cdbc598551f39.jpg" />
 </div>
 
 <div align="center">
