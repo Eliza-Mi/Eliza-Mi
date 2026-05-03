@@ -21,7 +21,7 @@ Sou de <b>Iguatemi-MS</b>. Sou graduado em <b>Análise e Desenvolvimento de Sist
 <br><br>
 - 🔭 Atualmente estou focado em transição de carreira para <b>Cloud Computing e Engenharia de Dados </b>.<br>
 - 📚 Estou estudando para a certificação <b>AWS Certified Cloud Practitioner</b> e aprofundando conhecimentos no ecossistema AWS.<br>
-- ⚡ Tenho sólida experiência em suporte técnico de segurança e atendimento ao cliente em ambientes de alta pressão.
+- ⚡ Tenho sólida experiência em suporte técnico e atendimento ao cliente em ambientes de alta pressão.
 </p>
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
