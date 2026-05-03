@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagem estilizada de menina geek/programadora -->
-  <img height="200" src="https://img.freepik.com/vector-premium/chica-geek-gafas-computadora-portatil-estilo-anime_6735-1021.jpg" style="border-radius: 50%;" />
+  <img height="200" src="[https://img.freepik.com/vector-premium/chica-geek-gafas-computadora-portatil-estilo-anime_6735-1021.jpg" style="border-radius: 50%;](https://i.pinimg.com/1200x/b0/1d/9d/b01d9d155ab04457f4f95f65344df32e.jpg)" />
 </div>
 
 <div align="center">
