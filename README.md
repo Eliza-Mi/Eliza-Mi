@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <!-- Imagem estilizada de menina geek/programadora -->
+  <img height="200" src="https://img.freepik.com/vector-premium/chica-geek-gafas-computadora-portatil-estilo-anime_6735-1021.jpg" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
@@ -12,16 +13,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario-github&" />
 </div>
 
-<h1 align="center">Olá, eu sou a Elizama 👋</h1>
+<h1 align="center">Olá, eu sou Elizama 👋</h1>
 
 <h3 align="left">👩‍💻 Sobre Mim</h3>
 
 <p align="left">
-Sou de <b>Iguatemi-MS</b>. Sou graduado em <b>Análise e Desenvolvimento de Sistemas (ADS)</b> e atualmente estou cursando pós-graduação em <b>Arquitetura de Software, Data Science e Cybersecurity na PUC/PR</b>.
+Sou de <b>Curitiba, PR</b>. Sou graduada em <b>Análise e Desenvolvimento de Sistemas (ADS)</b> e atualmente curso pós-graduação em <b>Arquitetura de Software, Data Science e Cybersecurity na PUC/PR</b>.
 <br><br>
-- 🔭 Atualmente estou focado em transição de carreira para <b>Cloud Computing e Engenharia de Dados </b>.<br>
-- 📚 Estou estudando para a certificação <b>AWS Certified Cloud Practitioner</b> e aprofundando conhecimentos no ecossistema AWS.<br>
-- ⚡ Tenho sólida experiência em suporte técnico e atendimento ao cliente em ambientes de alta pressão.
+- 🔭 Atualmente focada em transição de carreira para <b>Cloud Computing e Engenharia de Dados</b>.<br>
+- 📚 Estudando intensamente para a certificação <b>AWS Certified Cloud Practitioner</b>.<br>
+- ⚡ Experiência em suporte  e atendimento ao cliente.
 </p>
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
@@ -35,11 +36,4 @@ Sou de <b>Iguatemi-MS</b>. Sou graduado em <b>Análise e Desenvolvimento de Sist
   <img width="10" />
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-</div>
-
-<h3 align="left">🔥 Meus Status:</h3>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&langs_count=7&theme=radical"/>
 </div>
