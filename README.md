@@ -3,7 +3,7 @@
   <img src=https://i.pinimg.com/736x/e6/16/dc/e616dc1fb1b923fa0839173e2e7be049.jpg />
 
   <!-- Avatar Geek Girl -->
-  <img src="[https://img.icons8.com/illustrations/external-tulpahn-outline-color-tulpahn/150/external-geek-girl-avatars-tulpahn-outline-color-tulpahn.png" width="150px"](https://i.pinimg.com/736x/e6/16/dc/e616dc1fb1b923fa0839173e2e7be049.jpg) />
+  
 
   <h1>Olá, eu sou uma aspirante a Engenheira de Dados! ⚡</h1>
 
