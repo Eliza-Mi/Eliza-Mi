@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header com degradê Roxo/Rosa focado em Data Engineering -->
-  <img src=https://i.pinimg.com/736x/e6/16/dc/e616dc1fb1b923fa0839173e2e7be049.jpg />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/724315e2-f46d-4a9f-8cc9-39bd5aa5bbe3" />
 
   <!-- Avatar Geek Girl -->
   
@@ -42,8 +42,8 @@
 ### 📊 My GitHub Journey
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula&title_color=ff79c6&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliza-Mi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliza-Mi&layout=compact&langs_count=7&theme=dracula&title_color=ff79c6&text_color=ffffff" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 ### 📫 Vamos trocar conhecimentos?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/elizamamoliveira-it" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
