@@ -1,39 +1,63 @@
 <div align="center">
-  <!-- Imagem estilizada de menina geek/programadora -->
-  <img height="200" src="https://i.pinimg.com/1200x/1a/27/f3/1a27f34e539361ecdd9cdbc598551f39.jpg" />
+  <!-- Header com degradê Roxo/Rosa focado em Data Engineering -->
+  <img src=https://i.pinimg.com/736x/e6/16/dc/e616dc1fb1b923fa0839173e2e7be049.jpg />
+
+  <!-- Avatar Geek Girl -->
+  <img src="[https://img.icons8.com/illustrations/external-tulpahn-outline-color-tulpahn/150/external-geek-girl-avatars-tulpahn-outline-color-tulpahn.png" width="150px"](https://i.pinimg.com/736x/e6/16/dc/e616dc1fb1b923fa0839173e2e7be049.jpg) />
+
+  <h1>Olá, eu sou uma aspirante a Engenheira de Dados! ⚡</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity-C71585?style=flat-square&logo=linux&logoColor=white" />
+  </p>
+
+  <p><i>"Transformando dados brutos em insights através de arquiteturas seguras e escaláveis."</i></p>
 </div>
 
+<hr />
+
+### 🛠️ stack Tecnológica (Data & Cloud)
+
+- **Linguagens:** Python para automação e ETL, SQL para manipulação de dados.
+- **Infraestrutura Cloud:** Foco no ecossistema **AWS** (EC2, S3, IAM).
+- **Sistemas:** Administração de sistemas **Linux**.
+- **Segurança:** Conhecimento em **Cibersegurança** aplicado à proteção de dados e nuvem.
+
+### 🎓 Formação & Especialização
+
+- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**.
+- 📚 Pós-graduanda em **Arquitetura de Software, Ciência de Dados e Cibersegurança** pela PUC/PR.
+- ☁️ Preparação técnica para a certificação **AWS Cloud Practitioner**.
+
+### 📂 Projetos em Destaque
+
+- **CRIADOR:** Desenvolvimento de um compilador customizado utilizando Flex e Bison para análise dinâmica e otimização de rotinas.
+- **Data Pipelines:** Desenvolvimento de scripts em Python para integração e processamento de dados.
+
+---
+
+### 📊 My GitHub Journey
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/elizamamoliveira-it" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula&title_color=ff79c6&text_color=ffffff" />
+</div>
+
+---
+
+### 📫 Vamos trocar conhecimentos?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario-github&" />
-</div>
-
-<h1 align="center">Olá, eu sou Elizama 👋</h1>
-
-<h3 align="left">👩‍💻 Sobre Mim</h3>
-
-<p align="left">
-Sou de <b>Curitiba, PR</b>. Sou graduada em <b>Análise e Desenvolvimento de Sistemas (ADS)</b> e atualmente curso pós-graduação em <b>Arquitetura de Software, Data Science e Cybersecurity na PUC/PR</b>.
-<br><br>
-- 🔭 Atualmente focada em transição de carreira para <b>Cloud Computing e Engenharia de Dados</b>.<br>
-- 📚 Estudando intensamente para a certificação <b>AWS Certified Cloud Practitioner</b>.<br>
-- ⚡ Experiência em suporte  e atendimento ao cliente.
-</p>
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-<div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="10" />
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="10" />
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://raw.githubusercontent.com/maysoftware/maysoftware/master/img/footer_purple.gif" width="100%">
 </div>
