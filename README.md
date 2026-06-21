@@ -1,56 +1,72 @@
 <div align="center">
-  <!-- Header com degradê Roxo/Rosa focado em Data Engineering -->
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/724315e2-f46d-4a9f-8cc9-39bd5aa5bbe3" />
 
-  <!-- Avatar Geek Girl -->
-  
+# ✨ Oi, eu sou [Elizama Mirele Oliveira]! 💜💖
 
-  <h1>Olá, eu sou uma aspirante a Engenheira de Dados! ⚡</h1>
+### Estudante de Engenharia de Dados • Cloud Enthusiast • Data Lover ☁️📊
 
-  <p>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybersecurity-C71585?style=flat-square&logo=linux&logoColor=white" />
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Construindo+pipelines+na+nuvem+%E2%98%81%EF%B8%8F;Aprendendo%2C+criando+e+evoluindo+todos+os+dias+%F0%9F%92%9C" />
 
-  <p><i>"Transformando dados brutos em insights através de arquiteturas seguras e escaláveis."</i></p>
 </div>
-
-<hr />
-
-### 🛠️ stack Tecnológica (Data & Cloud)
-
-- **Linguagens:** Python para automação e ETL, SQL para manipulação de dados.
-- **Infraestrutura Cloud:** Foco no ecossistema **AWS** (EC2, S3, IAM).
-- **Sistemas:** Administração de sistemas **Linux**.
-- **Segurança:** Conhecimento em **Cibersegurança** aplicado à proteção de dados e nuvem.
-
-### 🎓 Formação & Especialização
-
-- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**.
-- 📚 Pós-graduanda em **Arquitetura de Software, Ciência de Dados e Cibersegurança** pela PUC/PR.
-- ☁️ Preparação técnica para a certificação **AWS Cloud Practitioner**.
-
-### 📂 Projetos em Destaque
-
-- **CRIADOR:** Desenvolvimento de um compilador customizado utilizando Flex e Bison para análise dinâmica e otimização de rotinas.
-- **Data Pipelines:** Desenvolvimento de scripts em Python para integração e processamento de dados.
 
 ---
 
+## 💜 Sobre mim
 
+Sou estudante de **Engenharia de Dados**, apaixonada por transformar dados brutos em informações que geram impacto.  
+Tenho interesse em **Data Engineering**, **Cloud Computing**, **Business Intelligence** e automação de processos com dados.
 
-### 📫 Vamos trocar conhecimentos?
+☁️ Certificada em **AWS Certified Cloud Practitioner**  
+🐍 Desenvolvendo soluções com **Python**  
+🗄️ Explorando dados e bancos relacionais com **SQL**  
+📊 Criando dashboards e análises com ferramentas de **BI**  
+✨ Sempre aprendendo sobre dados, cloud e novas tecnologias
+
+---
+
+## ☁️ Certificação Cloud
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/elizamamoliveira-it" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
 </div>
 
-<br />
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maysoftware/maysoftware/master/img/footer_purple.gif" width="100%">
+
+<img src="https://skillicons.dev/icons?i=python,aws,postgres,mysql,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Cloud-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Business_Intelligence-F472B6?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Engineering-A855F7?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+
 </div>
+
+---
+
+## 📊 O que estou estudando
+
+```text
+☁️ Cloud Computing com AWS
+🐍 Automação e manipulação de dados com Python
+🗄️ Modelagem e consultas SQL
+📈 Visualização de dados e dashboards em BI
+⚙️ ETL / ELT e pipelines de dados
+🏗️ Arquitetura de dados na nuvem
+```
+----
+```mermaid
+flowchart LR
+    A[📥 Dados Brutos] --> B[🐍 Python]
+    B --> C[🗄️ SQL]
+    C --> D[☁️ AWS Cloud]
+    D --> E[📊 Dashboards BI]
+    E --> F[💜 Insights que geram impacto]
+```
