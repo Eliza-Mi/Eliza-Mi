@@ -4,7 +4,7 @@
 
 ### Estudante de Engenharia de Dados • Cloud Enthusiast • Data Lover ☁️📊
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Construindo+pipelines+na+nuvem+%E2%98%81%EF%B8%8F;Aprendendo%2C+criando+e+evoluindo+todos+os+dias+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Construindo+pipelines+na+nuvem+%E2%98%81%EF%B8%8F;Aprendendo%2c+e+evoluindo+todos+os+dias+%F0%9F%92%9C" />
 
 </div>
 
