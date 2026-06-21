@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Oi, eu sou [Elizama Mirele Oliveira]! 💜💖
+# ✨ Oi, eu sou Elizama Mirele Oliveira! 💜💖
 
 ### Estudante de Engenharia de Dados • Cloud Enthusiast • Data Lover ☁️📊
 
@@ -63,7 +63,7 @@ Tenho interesse em **Data Engineering**, **Cloud Computing**, **Business Intelli
 ```
 ----
 ```mermaid
-flowchart LR
+     flowchart LR
     A[📥 Dados Brutos] --> B[🐍 Python]
     B --> C[🗄️ SQL]
     C --> D[☁️ AWS Cloud]
