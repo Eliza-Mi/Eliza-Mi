@@ -63,7 +63,7 @@ Tenho interesse em **Data Engineering**, **Cloud Computing**, **Business Intelli
 ```
 ----
 ```mermaid
-     flowchart LR
+flowchart LR
     A[📥 Dados Brutos] --> B[🐍 Python]
     B --> C[🗄️ SQL]
     C --> D[☁️ AWS Cloud]
